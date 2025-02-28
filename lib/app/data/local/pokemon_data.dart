@@ -1,0 +1,21 @@
+// pokemon types
+const List<String> pokemonTypes = [
+  'normal',
+  'fire',
+  'water',
+  'electric',
+  'grass',
+  'ice',
+  'fighting',
+  'poison',
+  'ground',
+  'flying',
+  'psychic',
+  'bug',
+  'rock',
+  'ghost',
+  'dark',
+  'dragon',
+  'steel',
+  'fairy',
+];
