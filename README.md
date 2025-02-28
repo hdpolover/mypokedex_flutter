@@ -6,6 +6,20 @@ A Pokédex application built with Flutter and GetX for state management, created
 
 This Pokédex app allows users to browse through Pokémon using the [PokéAPI](https://pokeapi.co/). The UI and features were designed based on the recruiter's requirements with some custom adjustments to enhance user experience.
 
+## 📷 Screenshots
+
+<p align="center">
+    <img src="screenshots/splash.jpg" width="200" alt="Splash Screen" />
+    <img src="screenshots/home.jpg" width="200" alt="Home Screen" />
+    <img src="screenshots/home1.jpg" width="200" alt="Home Screen Extended" />
+    <img src="screenshots/filter.jpg" width="200" alt="Filter Sheet" />
+    <img src="screenshots/detail1.jpg" width="200" alt="Details Screen" />
+    <img src="screenshots/detail2.jpg" width="200" alt="Details Screen Extended" />
+    <img src="screenshots/drawer.jpg" width="200" alt="Drawer Screen" />
+    <img src="screenshots/favorite.jpg" width="200" alt="Favorites Screen" />
+</p>
+
+
 ## ✨ Features
 
 - Browse Pokémon with infinite scrolling and pagination
@@ -59,10 +73,6 @@ flutter pub get
 # Run the app
 flutter run
 ```
-
-## 📷 Screenshots
-
-[Screenshots to be added]
 
 ## 📄 License
 
