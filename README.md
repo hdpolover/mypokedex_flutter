@@ -28,6 +28,8 @@ This Pokédex app allows users to browse through Pokémon using the [PokéAPI](h
 - Add and remove Pokémon as favorites
 - Responsive design for both portrait and landscape orientations
 - Efficient state management using GetX
+- Custom loading animation with Pokéball imagery
+- Shimmer effect for loading placeholders
 
 ## 🛠️ Technologies Used
 
@@ -35,6 +37,8 @@ This Pokédex app allows users to browse through Pokémon using the [PokéAPI](h
 - GetX for state management and clean architecture
 - PokéAPI as the data source
 - Responsive design principles
+- Google Fonts for typography
+- Shimmer for loading animations
 
 ## 📝 Implementation Notes
 
@@ -49,6 +53,7 @@ This app was intentionally designed with simplicity in mind due to time constrai
 - **Responsive design**: Flexible layouts that adapt to different screen orientations
 - **Type filtering**: Quick access to Pokémon filtered by their elemental types
 - **Favorites system**: Persistent storage of user preferences across app sessions
+- **Custom loading states**: Implemented shimmer loading placeholders and animated Pokéball loading indicators
 
 ## 🔄 State Management
 
